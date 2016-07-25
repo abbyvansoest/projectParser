@@ -1,0 +1,2526 @@
+<courseofferings xmlns="http://as.oit.princeton.edu/xml/courseofferings-1_4" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.4" xsi:schemaLocation="http://as.oit.princeton.edu/xml/courseofferings-1_4 http://atsweb.princeton.edu/mobile/xsd/courseofferings-1_4.xsd">
+<term>
+<code>1172</code>
+<suffix>F2016</suffix>
+<name>F16-17</name>
+<cal_name>Fall 2016</cal_name>
+<reg_name>16-17 Fall</reg_name>
+<start_date>2016-09-14</start_date>
+<end_date>2017-02-05</end_date>
+<subjects>
+<subject>
+<code>COS</code>
+<name>Computer Science</name>
+<dept_code>COS</dept_code>
+<dept>Computer Science</dept>
+<courses>
+<course>
+<guid>1172002046</guid>
+<course_id>002046</course_id>
+<catalog_number>109</catalog_number>
+<title>Computers in Our World</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Computers are all around us. How does this affect the world we live in? This course is a broad introduction to computing technology for humanities and social sciences students. Topics will be drawn from current issues and events, and will include discussion of how computers work; what programming is and why it is hard; how the Internet and the Web work; security and privacy.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010003300</emplid>
+<first_name>David Paul</first_name>
+<last_name>Dobkin</last_name>
+<full_name>David Paul Dobkin</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20585</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>70</capacity>
+<enrollment>26</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002051</guid>
+<course_id>002051</course_id>
+<catalog_number>126</catalog_number>
+<title>Computer Science: An Interdisciplinary Approach</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+An introduction to computer science in the context of scientific, engineering, and commercial applications. The course will teach basic principles and practical issues, and will prepare students to use computers effectively for applications in computer science, physics, biology, chemistry, engineering, and other disciplines. Topics include: hardware and software systems; programming in Java; algorithms and data structures; fundamental principles of computation; and scientific computing, including simulation, optimization, and data analysis. No prior programming experience required. Video lectures, one or two classes, two precepts
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>610090478</emplid>
+<first_name>Kevin</first_name>
+<last_name>Wayne</last_name>
+<full_name>Kevin Wayne</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20590</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>500</capacity>
+<enrollment>126</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20586</class_number>
+<section>P01</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23801</class_number>
+<section>P01A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>3</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23802</class_number>
+<section>P01B</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>3</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23803</class_number>
+<section>P01C</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>3</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23804</class_number>
+<section>P01D</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20587</class_number>
+<section>P02</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>10</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23805</class_number>
+<section>P02A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23806</class_number>
+<section>P02B</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23807</class_number>
+<section>P02C</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23808</class_number>
+<section>P02D</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20588</class_number>
+<section>P03</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>9</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>02:30 PM</start_time>
+<end_time>03:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20589</class_number>
+<section>P04</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>9</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20591</class_number>
+<section>P05</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>W</day>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23809</class_number>
+<section>P05A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>1</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>W</day>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20592</class_number>
+<section>P06</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>3</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>02:30 PM</start_time>
+<end_time>03:20 PM</end_time>
+<days>
+<day>W</day>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20593</class_number>
+<section>P11</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>11</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20594</class_number>
+<section>P12</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>11</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>W</day>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20595</class_number>
+<section>P13</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>18</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20596</class_number>
+<section>P14</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>13</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>W</day>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002053</guid>
+<course_id>002053</course_id>
+<catalog_number>217</catalog_number>
+<title>Introduction to Programming Systems</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Introduction to programming systems, including modular programming, advanced program design, programming style, test, debugging and performance tuning; machine languages and assembly language; and use of system call services.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010004012</emplid>
+<first_name>Andrew Wilson</first_name>
+<last_name>Appel</last_name>
+<full_name>Andrew Wilson Appel</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20597</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>290</capacity>
+<enrollment>272</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20598</class_number>
+<section>P01</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>24</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20599</class_number>
+<section>P02</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>24</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:30 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20600</class_number>
+<section>P03</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23797</class_number>
+<section>P03A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20602</class_number>
+<section>P04</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23798</class_number>
+<section>P04A</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20601</class_number>
+<section>P05</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23799</class_number>
+<section>P05A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20603</class_number>
+<section>P06</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>23</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:30 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23923</class_number>
+<section>P06A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>14</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:30 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20604</class_number>
+<section>P07</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>20</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23800</class_number>
+<section>P07A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>19</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002054</guid>
+<course_id>002054</course_id>
+<catalog_number>226</catalog_number>
+<title>Algorithms and Data Structures</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+This course surveys the most important algorithms and data structures in use on computers today. Particular emphasis is given to algorithms for sorting, searching, and string processing. Fundamental algorithms in a number of other areas are covered as well, including geometric algorithms, graph algorithms, and some numerical algorithms. The course will concentrate on developing implementations, understanding their performance characteristics, and estimating their potential effectiveness in applications.
+ Two online lectures, two class meetings, one precept.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010003547</emplid>
+<first_name>Robert</first_name>
+<last_name>Sedgewick</last_name>
+<full_name>Robert Sedgewick</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20605</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>300</capacity>
+<enrollment>151</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20610</class_number>
+<section>L02</section>
+<status>Cancelled</status>
+<type_name>Lecture</type_name>
+<capacity>0</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20606</class_number>
+<section>P01</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>14</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>09:00 AM</start_time>
+<end_time>09:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23883</class_number>
+<section>P01A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>1</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>09:00 AM</start_time>
+<end_time>09:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20607</class_number>
+<section>P02</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>18</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23794</class_number>
+<section>P02A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20608</class_number>
+<section>P03</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>27</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23795</class_number>
+<section>P03A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>8</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20609</class_number>
+<section>P04</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>27</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23796</class_number>
+<section>P04A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>28</capacity>
+<enrollment>8</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>12:30 PM</start_time>
+<end_time>01:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20611</class_number>
+<section>P05</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>18</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23884</class_number>
+<section>P05A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23885</class_number>
+<section>P06</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>20</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:30 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23886</class_number>
+<section>P06A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>20</capacity>
+<enrollment>6</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:30 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002060</guid>
+<course_id>002060</course_id>
+<catalog_number>318</catalog_number>
+<title>Operating Systems</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+An introduction to operating systems. Emphasis is on the fundamentals of how to design and implement an operating system. Topics include operating system structure, processes, threads, synchronizations, concurrent programming, interprocess communications, virtual memory, I/O device management, and file systems.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>000107891</emplid>
+<first_name>Jaswinder Pal</first_name>
+<last_name>Singh</last_name>
+<full_name>Jaswinder Pal Singh</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20612</class_number>
+<section>L01</section>
+<status>Closed</status>
+<type_name>Lecture</type_name>
+<capacity>75</capacity>
+<enrollment>75</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20613</class_number>
+<section>P01</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>75</capacity>
+<enrollment>75</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>M</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172012069</guid>
+<course_id>012069</course_id>
+<catalog_number>326</catalog_number>
+<title>Functional Programming</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+An introduction to the principles of typed functional programming. Programming recursive functions over structured data types and informal reasoning by induction about the correctness of those functions. Functional algorithms and data structures. Principles of modular programming, type abstraction, representation invariants and representation independence. Parallel functional programming, algorithms and applications.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960007440</emplid>
+<first_name>David P.</first_name>
+<last_name>Walker</last_name>
+<full_name>David P. Walker</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20614</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>125</capacity>
+<enrollment>109</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20615</class_number>
+<section>P01</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>27</capacity>
+<enrollment>27</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20616</class_number>
+<section>P02</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>27</capacity>
+<enrollment>20</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20617</class_number>
+<section>P03</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>27</capacity>
+<enrollment>26</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23831</class_number>
+<section>P03A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>7</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20618</class_number>
+<section>P04</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>27</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23832</class_number>
+<section>P04A</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>27</capacity>
+<enrollment>2</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172010455</guid>
+<course_id>010455</course_id>
+<catalog_number>340</catalog_number>
+<title>Reasoning about Computation</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+An introduction to mathematical topics relevant to computer science. Combinatorics and probability will be covered in the context of computer science applications. The course will present a computer science approach to thinking and modeling through topics such as dealing with uncertainty in data and handling large data sets. Students will be introduced to fundamental concepts such as NP-completeness and cryptography that arise from the world view of efficient computation.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010000290</emplid>
+<first_name>Bernard</first_name>
+<last_name>Chazelle</last_name>
+<full_name>Bernard Chazelle</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20619</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>105</capacity>
+<enrollment>102</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20620</class_number>
+<section>P01</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>30</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20621</class_number>
+<section>P02</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>11:50 AM</end_time>
+<days>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20622</class_number>
+<section>P03</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23916</class_number>
+<section>P04</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>22</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:20 PM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172009084</guid>
+<course_id>009084</course_id>
+<catalog_number>375</catalog_number>
+<title>Computer Architecture and Organization</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+An introduction to computer architecture and organization. Instruction set design; basic processor implementation techniques; performance measurement; caches and virtual memory; pipelined processor design; design trade-offs among cost, performance, and complexity.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010053117</emplid>
+<first_name>Margaret Rose</first_name>
+<last_name>Martonosi</last_name>
+<full_name>Margaret Rose Martonosi</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20623</class_number>
+<section>C01</section>
+<status>Open</status>
+<type_name>Class</type_name>
+<capacity>80</capacity>
+<enrollment>51</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002068</guid>
+<course_id>002068</course_id>
+<catalog_number>397</catalog_number>
+<title>Junior Independent Work (B.S.E. candidates only)</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Provides an opportunity for a student to concentrate on a &quot;state-of-the-art&quot; project in computer science. Topics may be selected from suggestions by faculty members or proposed by the student. The final choice must be approved by the faculty advisor. Refer to course web page for additional details.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>961272775</emplid>
+<first_name>Robert S.</first_name>
+<last_name>Fish</last_name>
+<full_name>Robert S. Fish</full_name>
+</instructor>
+<instructor>
+<emplid>010000279</emplid>
+<first_name>Andrea Suzanne</first_name>
+<last_name>LaPaugh</last_name>
+<full_name>Andrea Suzanne LaPaugh</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20624</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>999</capacity>
+<enrollment>49</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:00 AM</start_time>
+<end_time>01:00 AM</end_time>
+<days/>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002056</guid>
+<course_id>002056</course_id>
+<catalog_number>402</catalog_number>
+<title>Machine Learning and Artificial Intelligence</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+This course will provide a basic introduction to the core principles, algorithms and techniques of modern artificial intelligence and machine learning research and practice. Main topics will include: 1. Problem solving using search, with applications to game playing 2. Probabilistic reasoning in the presence of uncertainty 3. Hidden Markov models and speech recognition 4. Markov decision processes and reinforcement learning 5. Machine learning using decision trees, neural nets and more. 6. Basic principles of mathematical optimization for learning
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960012754</emplid>
+<first_name>Elad</first_name>
+<last_name>Hazan</last_name>
+<full_name>Elad Hazan</full_name>
+</instructor>
+<instructor>
+<emplid>960789522</emplid>
+<first_name>Xiaoyan</first_name>
+<last_name>Li</last_name>
+<full_name>Xiaoyan Li</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20625</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>160</capacity>
+<enrollment>68</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172013749</guid>
+<course_id>013749</course_id>
+<catalog_number>418</catalog_number>
+<title>Distributed Systems</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+This course covers the design and implementation of distributed systems. Students will gain an understanding of the principles and techniques behind the design of modern, reliable, and high-performance distributed systems. Topics include server design, network programming, naming, concurrency and locking, consistency models and techniques, security, and fault tolerance. Modern techniques and systems employed at some of the largest Internet sites (e.g., Google, Facebook, Amazon) will also be covered. Through programming assignments, students will gain practical experience designing, implementing, and debugging real distributed systems.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960012282</emplid>
+<first_name>Michael Joseph</first_name>
+<last_name>Freedman</last_name>
+<full_name>Michael Joseph Freedman</full_name>
+</instructor>
+<instructor>
+<emplid>961265370</emplid>
+<first_name>Kyle Andrew</first_name>
+<last_name>Jamieson</last_name>
+<full_name>Kyle Andrew Jamieson</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23569</class_number>
+<section>L01</section>
+<status>Closed</status>
+<type_name>Lecture</type_name>
+<capacity>50</capacity>
+<enrollment>50</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>2</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23570</class_number>
+<section>P01</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>3</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>23571</class_number>
+<section>P02</section>
+<status>Closed</status>
+<type_name>Precept</type_name>
+<capacity>25</capacity>
+<enrollment>25</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>4</meeting_number>
+<start_time>10:00 AM</start_time>
+<end_time>10:50 AM</end_time>
+<days>
+<day>F</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172009123</guid>
+<course_id>009123</course_id>
+<catalog_number>429</catalog_number>
+<title>Computer Vision</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+This course is an introduction to the concepts of 2D and 3D computer vision. It surveys a wide range of topics from level-level vision to high-level recognition. We will discuss concepts such as filtering and edge detection; cameras and shape reconstruction; segmentation and clustering; optical flow and tracking; object recognition; motion recognition; statistical modeling of visual data, etc. Throughout the course, there will also be examination of aspects of human vision and perception that guide and inspire computer vision techniques.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960503373</emplid>
+<first_name>Jianxiong</first_name>
+<last_name>Xiao</last_name>
+<full_name>Jianxiong Xiao</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20626</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>80</capacity>
+<enrollment>65</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002074</guid>
+<course_id>002074</course_id>
+<catalog_number>432</catalog_number>
+<title>Information Security</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Security issues in computing, communications, and electronic commerce. Goals and vulnerabilities; legal and ethical issues; basic cryptology; private and authenticated communication; electronic commerce; software security; viruses and other malicious code; operating system protection; trusted systems design; network security; firewalls; policy, administration and procedures; auditing; physical security; disaster recovery; reliability; content protection; privacy.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960167073</emplid>
+<first_name>Nick</first_name>
+<last_name>Feamster</last_name>
+<full_name>Nick Feamster</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20627</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>125</capacity>
+<enrollment>112</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002081</guid>
+<course_id>002081</course_id>
+<catalog_number>487</catalog_number>
+<title>Theory of Computation</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Introduction to computability and complexity theory. Topics will include models of computation such as finite automata, pushdown automata, and Turing machines; decidability and decidability; computational complexity; P, NP, and NP completeness; others.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010004635</emplid>
+<first_name>Robert Endre</first_name>
+<last_name>Tarjan</last_name>
+<full_name>Robert Endre Tarjan</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20633</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>60</capacity>
+<enrollment>47</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20634</class_number>
+<section>P01</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>23</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>M</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+<class>
+<class_number>20635</class_number>
+<section>P02</section>
+<status>Open</status>
+<type_name>Precept</type_name>
+<capacity>30</capacity>
+<enrollment>24</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>07:30 PM</start_time>
+<end_time>08:20 PM</end_time>
+<days>
+<day>T</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002086</guid>
+<course_id>002086</course_id>
+<catalog_number>497</catalog_number>
+<title>Senior Independent Work (B.S.E. candidates only)</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>UGRD</track>
+<description>
+Provides an opportunity for a student to concentrate on a &quot;state-of-the-art&quot; project in computer science. Topics may be selected from suggestions by faculty members or proposed by the student. The final choice must be approved by the faculty advisor.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>961272775</emplid>
+<first_name>Robert S.</first_name>
+<last_name>Fish</last_name>
+<full_name>Robert S. Fish</full_name>
+</instructor>
+<instructor>
+<emplid>010000279</emplid>
+<first_name>Andrea Suzanne</first_name>
+<last_name>LaPaugh</last_name>
+<full_name>Andrea Suzanne LaPaugh</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>20628</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>999</capacity>
+<enrollment>54</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:00 AM</start_time>
+<end_time>01:00 AM</end_time>
+<days/>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172013795</guid>
+<course_id>013795</course_id>
+<catalog_number>516</catalog_number>
+<title>Automated Reasoning about Software</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+An introduction to algorithmic techniques for reasoning about software. Basic concepts in logic-based techniques including model checking, invariant generation, symbolic execution, and syntax-guided synthesis; automatic decision procedures in modern solvers for Boolean Satisfiability (SAT) and Satisfiability Modulo Theory (SMT); and their applications in automated verification, analysis, and synthesis of software. Emphasis on algorithms and automatic tools.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>210068654</emplid>
+<first_name>Aarti</first_name>
+<last_name>Gupta</last_name>
+<full_name>Aarti Gupta</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23815</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>30</capacity>
+<enrollment>6</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>4</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002099</guid>
+<course_id>002099</course_id>
+<catalog_number>521</catalog_number>
+<title>Advanced Algorithm Design</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+Advanced methods of algorithmic design and analysis: data structures, network flows, and linear programming. Solution of linear programs: Karmarkar and Ellipsoid algorithms. Probabilistic techniques. A selection of topics from on-line computation, approximation algorithms for NP-hard problems, number theoretic algorithms, geometric algorithms, and parallel computation.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>010006318</emplid>
+<first_name>Sanjeev</first_name>
+<last_name>Arora</last_name>
+<full_name>Sanjeev Arora</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>22847</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>40</capacity>
+<enrollment>3</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172008665</guid>
+<course_id>008665</course_id>
+<catalog_number>526</catalog_number>
+<title>Advanced Computer Graphics</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+Advanced topics in computer graphics, with focus on learning recent methods in rendering, modeling, and animation. Appropriate for students who have taken COS426 (or equivalent) and who would like further exposure to computer graphics.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>910083875</emplid>
+<first_name>Thomas Allen</first_name>
+<last_name>Funkhouser</last_name>
+<full_name>Thomas Allen Funkhouser</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>22853</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>20</capacity>
+<enrollment>6</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002107</guid>
+<course_id>002107</course_id>
+<catalog_number>551</catalog_number>
+<title>
+Introduction to Genomics and Computational Molecular Biology
+</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+Introduction to basic computational methods used for problems arising in molecular biology. Topics include computational approaches to: sequence similarity and alignment, phylogenic inference, gene recognition, gene expression analysis, structure prediction, and whole- and cross-genome analysis.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960831995</emplid>
+<first_name>Anastasia</first_name>
+<last_name>Baryshnikova</last_name>
+<full_name>Anastasia Baryshnikova</full_name>
+</instructor>
+<instructor>
+<emplid>960805368</emplid>
+<first_name>Michael Steven</first_name>
+<last_name>Levine</last_name>
+<full_name>Michael Steven Levine</full_name>
+</instructor>
+<instructor>
+<emplid>610068378</emplid>
+<first_name>Mona</first_name>
+<last_name>Singh</last_name>
+<full_name>Mona Singh</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>22843</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>30</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>11:00 AM</start_time>
+<end_time>12:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172010156</guid>
+<course_id>010156</course_id>
+<catalog_number>561</catalog_number>
+<title>Advanced Computer Networks</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+Survey of computer networks covering end-to-end principle, multiplexing, virtualization, packet switching vs. circuit switching, router design, network protocols, congestion control, internet routing architecture, network measurement, network management, and overlay networks. Survey of research papers from classic literature through contemporary research.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>000207804</emplid>
+<first_name>Jennifer L.</first_name>
+<last_name>Rexford</last_name>
+<full_name>Jennifer L. Rexford</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>22856</class_number>
+<section>L01</section>
+<status>Open</status>
+<type_name>Lecture</type_name>
+<capacity>50</capacity>
+<enrollment>8</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002122</guid>
+<course_id>002122</course_id>
+<catalog_number>597A</catalog_number>
+<title>
+Advanced Topics in Computer Science: Locally Decodable Codes and their applications
+</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+Starting with the basic theory of error correcting codes, the seminar focuses on special types of codes that have local decodability properties. That is, to decode a specific message symbol, the decoder only has to query a few positions in a possibly corrupted codeword. We see the known constructions and lower bounds for such codes as well as their many applications including in computational complexity, distributed storage and discrete geometry.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960625091</emplid>
+<first_name>Zeev</first_name>
+<last_name>Dvir</last_name>
+<full_name>Zeev Dvir</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23862</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>25</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002123</guid>
+<course_id>002123</course_id>
+<catalog_number>597B</catalog_number>
+<title>
+Advanced Topics in Computer Science: Automated Reasoning about Software
+</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+An introduction to algorithmic techniques for reasoning about software. Students learn the basics of modern Boolean Satisfiability (SAT) solvers and Satisfiability Modulo Theory (SMT) solvers, and their applications in techniques for verification, analysis, and synthesis of software. The course covers techniques like model checking, invariant generation, symbolic execution, and syntax-guided synthesis.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>210068654</emplid>
+<first_name>Aarti</first_name>
+<last_name>Gupta</last_name>
+<full_name>Aarti Gupta</full_name>
+</instructor>
+<instructor>
+<emplid>961116726</emplid>
+<first_name>Yakir</first_name>
+<last_name>Vizel</last_name>
+<full_name>Yakir Vizel</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23865</class_number>
+<section>S01</section>
+<status>Cancelled</status>
+<type_name>Seminar</type_name>
+<capacity>0</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>01:30 PM</start_time>
+<end_time>02:50 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002124</guid>
+<course_id>002124</course_id>
+<catalog_number>597C</catalog_number>
+<title>
+Advanced Topics in Computer Science: Recent Developments in Program Obfuscation
+</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+In this seminar we investigate the nature and future of interactive illustrations through readings, guest interviews with domain experts, and practical experimentation. The structure and flow of the seminar is guided by the participants. While it is a graduate seminar, undergrads are also welcome.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>960607063</emplid>
+<first_name>Mark Landry</first_name>
+<last_name>Zhandry</last_name>
+<full_name>Mark Landry Zhandry</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23920</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>25</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>T</day>
+<day>Th</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+<course>
+<guid>1172002125</guid>
+<course_id>002125</course_id>
+<catalog_number>597D</catalog_number>
+<title>
+Advanced Topics in Computer Science: Reasoning about concurrent systems
+</title>
+<detail>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<track>GRAD</track>
+<description>
+It is notoriously difficult to build reliable concurrent software. The nondeterministic nature of concurrency makes ad-hoc reasoning highly susceptible to error. This course covers formal methods for reasoning about concurrent systems. Topics include the semantic foundations of concurrency, logics for proving properties of concurrent systems, and algorithms for reasoning their behavior. Particular emphasis is placed on automated reasoning.
+</description>
+</detail>
+<instructors>
+<instructor>
+<emplid>961272955</emplid>
+<first_name>Zachary</first_name>
+<last_name>Kincaid</last_name>
+<full_name>Zachary Kincaid</full_name>
+</instructor>
+</instructors>
+<classes>
+<class>
+<class_number>23914</class_number>
+<section>S01</section>
+<status>Open</status>
+<type_name>Seminar</type_name>
+<capacity>30</capacity>
+<enrollment>0</enrollment>
+<schedule>
+<start_date>2016-09-14</start_date>
+<end_date>2017-01-17</end_date>
+<meetings>
+<meeting>
+<meeting_number>1</meeting_number>
+<start_time>03:00 PM</start_time>
+<end_time>04:20 PM</end_time>
+<days>
+<day>M</day>
+<day>W</day>
+</days>
+</meeting>
+</meetings>
+</schedule>
+</class>
+</classes>
+</course>
+</courses>
+</subject>
+</subjects>
+</term>
+</courseofferings>
